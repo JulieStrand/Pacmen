@@ -5,6 +5,7 @@ In this version, the user can add Pac-men to the screen with a button click, and
 
 To use the application, click "Add PacMan" to add a Pacman to the screen, then click "Start Game" to set them in motion. You can continue to add Pacmen to the screen with the "Add PacMan" button after the game has been started.
 
+---
 MIT License
 
 Copyright (c) 2022 Julie Strand
